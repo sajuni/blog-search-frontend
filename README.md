@@ -12,4 +12,3 @@
 #### 실행이 되지 않을 시
 
 - npm install -g yarn
-- npm install -g vue-cli 전역으로 cli설치 후 테스트 재실행
