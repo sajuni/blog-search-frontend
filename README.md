@@ -11,4 +11,4 @@
 
 #### 실행이 되지 않을 시
 
-- npm install -g yarn
+- npm install -g yarn 후 프로젝트 테스트 방법 다시 시도
