@@ -1,31 +1,15 @@
 # blog-search-frontend
 
-## Project setup
+- 백엔드 소스: https://github.com/sajuni/blog-search-backend
+- node.js v18.12.1
 
-```
-yarn install
-```
+#### 프로젝트 테스트 방법
 
-### Compiles and hot-reloads for development
+1. 깃허브에서 프로젝트를 내려 받는다.
+2. 내려 받은 폴더로 진입해 yarn install 실행
+3. 완료 후 yarn serve로 실행 시 3000포트로 프로젝트가 실행됨
 
-```
-yarn serve
-```
+#### 실행이 되지 않을 시
 
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# blog-search-frontend
+- npm install -g yarn
+- npm install -g vue-cli 전역으로 cli설치 후 테스트 재실행
